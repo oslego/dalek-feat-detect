@@ -1,0 +1,10 @@
+{
+"browsers": [{
+   "chrome": {
+     "chromeOptions": {
+       "args": ["enable-experimental-web-platform-features"]
+      },
+     "binary": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+   }
+ }]
+}

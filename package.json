@@ -1,0 +1,10 @@
+{
+  "name": "feature-detect",
+  "version": "0.0.1",
+  "description": "Basic feature detection for experimental web platform features",
+  "main": "index.js",
+  "devDependencies": {
+    "dalekjs": "0.0.8",
+    "dalek-browser-chrome": "0.0.9"
+  }
+}
